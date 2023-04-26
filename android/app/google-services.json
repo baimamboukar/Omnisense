@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "692760674487",
+    "project_id": "omnisense-ai",
+    "storage_bucket": "omnisense-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692760674487:android:6c8a1953c17ccaceb9cd32",
+        "android_client_info": {
+          "package_name": "com.baimamboukar.omnisense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692760674487-k1odkos8sthnfn3berice9mik0j3iirj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx5qtaY_R84Pnk0LJ6xBZ2wpochbarIcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692760674487-2njj20m3i1r6ho1iat1eb7i656u9ilq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692760674487-n2b1gd8sk1jk1mafri6igrn52jjg16nd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.verygoodcore.omnisense"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

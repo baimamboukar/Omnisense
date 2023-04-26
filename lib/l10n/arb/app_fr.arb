@@ -1,0 +1,7 @@
+{
+  "@@locale": "fr",
+  "counterAppBarTitle": "Compteur",
+  "@counterAppBarTitle": {
+    "description": "Texte affricher au niveau de la barre de menu"
+  }
+}
