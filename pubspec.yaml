@@ -15,7 +15,7 @@ dependencies:
   dio: ^5.1.1
   dotenv: ^4.1.0
   firebase_app_check: ^0.1.2+1
-  firebase_auth: ^4.4.0
+  firebase_auth: ^4.4.2
   firebase_core: ^2.9.0
   flex_color_scheme: ^7.0.0
   flutter:
