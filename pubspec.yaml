@@ -46,7 +46,7 @@ dev_dependencies:
   auto_route_generator: ^6.0.3
   bloc_test: ^9.1.1
   build_runner: ^2.3.3
-  flutter_launcher_icons: ^0.13.0
+  flutter_launcher_icons: ^0.13.1
   flutter_native_splash: ^2.2.19
   flutter_test:
     sdk: flutter
