@@ -21,6 +21,8 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.2
+  flutter_blue_plus: ^1.4.0
+  flutter_bluetooth_serial: ^0.4.0
   flutter_dotenv: ^5.0.2
   flutter_hicons: ^0.0.1
   flutter_localizations:

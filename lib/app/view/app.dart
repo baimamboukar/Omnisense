@@ -35,8 +35,6 @@ class _OmnisenseState extends State<Omnisense> {
           darkTheme: theme.toThemeData(
             Brightness.dark,
           ),
-          // routeInformationParser: router.defaultRouteParser(),
-          // routerDelegate: router.delegate(),
           routerConfig: router.config(
             initialRoutes: [
               if (context.isUserLoggedIn)
@@ -45,7 +43,6 @@ class _OmnisenseState extends State<Omnisense> {
                 const routes.Welcome(),
             ],
           ),
-          // routeInformationProvider: router.routeInfoProvider(),
           supportedLocales: AppLocalizations.supportedLocales,
         );
       },
