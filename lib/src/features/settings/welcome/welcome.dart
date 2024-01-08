@@ -182,7 +182,7 @@ class Welcome extends StatelessWidget {
                   ],
                 ),
               ),
-            )
+            ),
           ],
         ),
       ),
